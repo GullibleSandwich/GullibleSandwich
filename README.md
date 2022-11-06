@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GullibleSandwich
+- 👋 Hi, I’m Harsh Katara
 - 👀 I’m interested in Photography and Artificial Intelligence
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on
