@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Katara
-- 👀 I’m interested in Photography and Artificial Intelligence
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Photography and Swimming
+- 🌱 I’m currently learning Finance, Economics and Statistics
+- 💞️ I’m looking to collaborate on Machine learning and Finance projects
 - 📫 Reach me at h.katara23@gmail.com
 
 <!---
